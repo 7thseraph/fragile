@@ -1,5 +1,3 @@
-# fragile
-
 "You live wherever you live,
 you do whatever work you do,
 you talk however you talk,
